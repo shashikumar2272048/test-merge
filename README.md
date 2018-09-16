@@ -3,4 +3,5 @@
 2nd commit in no --ff branch
 3rd commit  no-fast-branch
 4rd commit fast forward
-6th comit befre merges in master
+<4th 3wm
+
