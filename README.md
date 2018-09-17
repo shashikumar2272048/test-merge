@@ -4,3 +4,4 @@
 3rd commit  no-fast-branch
 4rd commit fast forward
 merge conflict creating in 3wd btanch
+conflict error creating
